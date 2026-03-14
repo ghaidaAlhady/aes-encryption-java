@@ -38,4 +38,4 @@ The program takes a message as input, encrypts it using AES, and then displays t
 ## Author
 
 Tarafh Al-Akor
-Ghaida hadi
+|Ghaida hadi
